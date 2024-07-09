@@ -22,7 +22,7 @@ Congratulations on passing the AISS qualification exam! As a successful applican
 ## 2. Basic Online Lectures
 
 ### 2.1. StatQuest
--   [Linear regression](https://www.youtube.com/watch?v=nk2CQITm_eo)
+-   [Linear regression](https://www.youtube.com/watch?v=nk2CQITm_eo) (30 min)
 -   [Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) (until lecture 6, 80 min)
 -   [Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) (until lecture 7, 60 min)
 -   [Deep Learning](https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) (lecture 1-14 & 19-21, 250 min)
