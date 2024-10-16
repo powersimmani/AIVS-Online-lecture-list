@@ -2,7 +2,8 @@
 # AI Vacation School - Pre-session (Version for 2025 Winter)
 
 
-Congratulations on passing the AISS qualification exam! As a successful applicant, you are required to study the following online lecture materials until AISS begins. Please note that we will be holding a quiz on this material on the afternoon of the first day of the lecture. It is important to understand that a certificate cannot be issued to students who do not receive sufficient marks in both the quiz and the final exam. We encourage you to take advantage of this unique opportunity and study diligently. We wish you the best of luck in your studies and look forward to seeing you at AISS!
+This material has been compiled for the pre-session of the AI Vacation School. Students who pass the qualification test are required to study this material for about two weeks after the exam. On the first day of the main program, their achievement will be evaluated through a quiz. The material has been carefully selected over three years through numerous TAs and students who have completed the program. Including both videos and materials, it requires approximately 20+ hours of playback time, while the actual time of study needed is 50+ hours.
+
 
 ## 1. Basic Math
 
