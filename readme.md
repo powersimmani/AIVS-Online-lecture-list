@@ -1,5 +1,5 @@
 
-# AI Summer School 2024 - Home work
+# AI Vacation School - Pre-session (Version for 2025 Winter)
 
 
 Congratulations on passing the AISS qualification exam! As a successful applicant, you are required to study the following online lecture materials until AISS begins. Please note that we will be holding a quiz on this material on the afternoon of the first day of the lecture. It is important to understand that a certificate cannot be issued to students who do not receive sufficient marks in both the quiz and the final exam. We encourage you to take advantage of this unique opportunity and study diligently. We wish you the best of luck in your studies and look forward to seeing you at AISS!
